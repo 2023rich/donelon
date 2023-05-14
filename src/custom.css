@@ -1,0 +1,51 @@
+*,
+html {
+    scroll-behavior: smooth !important;
+}
+
+body {
+    font-family: monospace;
+    background-color: #000;
+    color: #FFF;
+}
+
+.social {
+    background: rgb(98, 98, 95);
+    cursor: pointer;
+    border: solid 2px #FFF;
+    padding: 1rem;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.social:hover {
+    background-color: #FFF;
+    color: rgb(98, 98, 95);
+    ;
+}
+
+.social_title {
+    font-family: monospace;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+.howto {
+    cursor: pointer;
+    border: solid 2px #FFF;
+    padding: 1rem;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.howto:hover {
+    /* background-color: #FFF; */
+    background: rgb(98, 98, 95);
+    color: #FFF
+}
