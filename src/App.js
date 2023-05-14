@@ -171,7 +171,7 @@ const App = () => {
 
             <div className='flex-2' data-aos='fade-right' data-aos-offset='100'>
               <div className='text-3xl'>Total supply</div>
-              <div className='text-4xl font-bold mb-3'>1,000,000,000 $DONELON</div>
+              <div className='text-4xl font-bold mb-3'>1,000,000 $DONELON</div>
               <div className='border-2 border-white bg-white p-5 rounded-lg'>
                 <img src={TokenomicImg} alt='' />
               </div>
