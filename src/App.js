@@ -89,11 +89,11 @@ const App = () => {
               <div className='social_title'>PinkSale</div>
               <img className='w-12' src='https://www.pinksale.finance/static/media/pinkswap.a95de4f3.png' alt='' />
             </a>
-            <a target='_blank' href='https://www.dextools.io/app/en/bnb/pair-explorer/0xb39ab1a70c3d83465936cad208c5b75e48127169' className="social">
+            <a target='_blank' href='https://www.dextools.io/app/en/bnb/pair-explorer/0x91C5CdCc150146Ee6130DEbc4e894183f510FCba' className="social">
               <div className='social_title'>DexView</div>
               <img className='w-12' src='https://www.dexview.com/dexview-cat.svg' alt='' />
             </a>
-            <a target='_blank' href='https://pancakeswap.finance/swap?outputCurrency=0xA3c1abC0d0Bde46F715129706BB22eD5dFd158Ec' className="social">
+            <a target='_blank' href='https://pancakeswap.finance/swap?outputCurrency=0x91C5CdCc150146Ee6130DEbc4e894183f510FCba' className="social">
               <div className='social_title'>pancakeswap</div>
               <img className='w-12' src='https://pancakeswap.finance/favicon.ico' alt='' />
             </a>
